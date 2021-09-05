@@ -5,7 +5,7 @@ import json
 
 headers = {
   'x-rapidapi-host': "movie-database-imdb-alternative.p.rapidapi.com",
-  'x-rapidapi-key': "7b275e1179mshfbad81cf1295a2bp18c11bjsn8a05e938a08d"
+  'x-rapidapi-key': ""
 }
 
 # Searches for movie titles that match the user input name
